@@ -1,0 +1,7 @@
+/build
+/.next
+/node_modules
+/dist
+/public
+.vercel
+.env*
